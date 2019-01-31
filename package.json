@@ -1,14 +1,14 @@
 {
-  "name": "requirelint",
+  "name": "deplint",
   "version": "1.0.0",
   "description": "Lint dependencies requirements",
   "main": "lib/index.js",
   "bin": {
-    "requirelint": "lib/index.js"
+    "deplint": "lib/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jviottti/requirelint.git"
+    "url": "git@github.com:jviottti/deplint.git"
   },
   "scripts": {
     "lint": "eslint lib",

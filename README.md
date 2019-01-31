@@ -1,5 +1,5 @@
-RequireLint
-===========
+DepLint
+=======
 
 Lint dependencies requirements.
 
@@ -7,13 +7,13 @@ Installation
 ------------
 
 ```sh
-npm install --global requirelint
+npm install --global deplint
 ```
 
 Documentation
 -------------
 
-Your `package.json` should contain a `requirelint` key with these properties:
+Your `package.json` should contain a `deplint` key with these properties:
 
 - `String[] files`: An array of file patterns to scan
 - `String[] modules`: An array of directories that represent your top level
@@ -23,7 +23,7 @@ Support
 -------
 
 If you're having any problem, please [raise an
-issue](https://github.com/jviotti/requirelint/issues/new) on GitHub and I'll be
+issue](https://github.com/jviotti/deplint/issues/new) on GitHub and I'll be
 happy to help.
 
 Tests
@@ -38,8 +38,8 @@ npm test
 Contribute
 ----------
 
-- Issue Tracker: [github.com/jviotti/requirelint/issues](https://github.com/jviotti/requirelint/issues)
-- Source Code: [github.com/jviotti/requirelint](https://github.com/jviotti/requirelint)
+- Issue Tracker: [github.com/jviotti/deplint/issues](https://github.com/jviotti/deplint/issues)
+- Source Code: [github.com/jviotti/deplint](https://github.com/jviotti/deplint)
 
 License
 -------
