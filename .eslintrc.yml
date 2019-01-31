@@ -208,8 +208,8 @@ rules:
     - always
   max-len:
     - error
-    - code: 80
-      comments: 80
+    - code: 100
+      comments: 100
       ignoreComments: false
       ignoreTrailingComments: false
       ignoreUrls: true
