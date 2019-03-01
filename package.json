@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jviottti/deplint.git"
+    "url": "git@github.com:jviotti/deplint.git"
   },
   "scripts": {
     "lint": "eslint lib",
