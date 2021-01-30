@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "hawthorn": "^1.2.2"
+    "hawthorn": "^1.2.7"
   }
 }
